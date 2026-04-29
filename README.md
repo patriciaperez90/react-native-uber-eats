@@ -1,3 +1,3 @@
 <h2 style="text-align:center">React Native based Uber eats Clone App</h2><br/><br/>
- 
- ![react native based uber eats clone app](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/patricia/React%20Native%20based%20Uber%20eats%20Clone%20App.webp) <br/><br/>The react native based uber eats clone app frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/patricia-react-native-based-uber-eats-clone-app" target="_blank">click here</a>.
+  
+  ![react native based uber eats clone app](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/patricia/React%20Native%20based%20Uber%20eats%20Clone%20App.webp) <br/><br/>The react native based uber eats clone app frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://onboarding.enatega.com/register/?utm_source=github&utm_medium=repo&utm_campaign=patricia-react-native-based-uber-eats-clone-app" target="_blank">click here</a>.
